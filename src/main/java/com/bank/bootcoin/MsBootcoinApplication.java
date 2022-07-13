@@ -1,0 +1,13 @@
+package com.bank.bootcoin;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsBootcoinApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsBootcoinApplication.class, args);
+	}
+
+}
